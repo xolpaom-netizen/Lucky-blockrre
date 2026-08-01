@@ -1,0 +1,38 @@
+local functionInfo = {
+    ["script"] = {
+        ["SourceScript"] = getNil("Main", "LocalScript"),
+        ["CallingScript"] = getNil("Main", "LocalScript")
+    },
+    ["upvalues"] = {
+        [1] = getNil("Lucky", "Tool")
+    },
+    ["info"] = {
+        ["source"] = "=Players.ZemberACD29.Backpack.Lucky.Main",
+        ["what"] = "Lua",
+        ["numparams"] = 0,
+        ["func"] = function: 0x714761c95932a9b7,
+        ["short_src"] = "Players.ZemberACD29.Backpack.Lucky.Main",
+        ["currentline"] = 23,
+        ["name"] = "",
+        ["is_vararg"] = 0,
+        ["nups"] = 1
+    },
+    ["constants"] = {
+        [1] = "wait",
+        [3] = "GetChildren",
+        [4] = "MeshPart",
+        [5] = "IsA",
+        [6] = 0.1,
+        [7] = "Transparency",
+        [8] = 8,
+        [9] = "game",
+        [10] = game,
+        [11] = "ReplicatedStorage",
+        [12] = "SpawnLuckyBlock",
+        [13] = "FireServer",
+        [14] = "script",
+        [16] = "Parent",
+        [17] = "Destroy"
+    }
+}
+
